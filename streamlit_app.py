@@ -1,11 +1,11 @@
-
 import streamlit as st
 import pandas as pd
 
 
 
 # Load the DataFrame
-file_path = '/Users/alokeshirolkar/Library/CloudStorage/GoogleDrive-alokeshirolkar@gmail.com/My Drive/NEWAUSTRALIAN/streamlit/streamlitinput.csv'
+file_path = 'https://drive.google.com/uc?export=download&id=195X5ZRtokjBqN0EX9Tgaqf3TG5Xk3OG5'
+
 
 
 
